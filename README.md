@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - Group project featuring a full casino simulation with **Blackjack, Roulette, Slot Machine, and Soccer** betting games.
 - Implemented login/ranking/earning systems, dynamic memory management, file I/O, animations, and random events.
 - Contributed to game logic, user interface (text-based animations), ranking system, and overall player experience.
-- Tech: C++, Makefile, file I/O, dynamic memory
+- Tech: **C++, Makefile, file I/O, dynamic memory**
 
 ### 🛠️ Skills & Tools
 
