@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #### [UniHaven – Student Accommodation Platform](https://github.com/Justin8900/comp3297)
 - Collaborated on a Django REST API that helps students across **HKU, CUHK, and HKUST** find and reserve accommodations.
-- Focused on **API integration**, testing user flows, and ensuring the backend supports a good user experience.
+- Focused on API integration, testing user flows, and ensuring the backend supports a good user experience.
 - Features: Role-based access control (`member`/`specialist`), reservation lifecycle, rating system, automatic geocoding, and OpenAPI documentation.
 - Tech stack: **Python, Django, Django REST Framework, drf-spectacular, SQLite**.
 
