@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Computer Science student| Frontend & UI/UX Enthusiast | Backend & Full-Stack Developer | Building practical systems**
+**Computer Science student | Frontend & UI/UX Enthusiast | Backend & Full-Stack Developer | Building practical systems**
 
 ### 🚀 Projects I've Worked On
 
