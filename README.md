@@ -1,4 +1,4 @@
-## Hi there, I'm Gigi Chan 👋
+## Hi there, This is Gigi Chan 👋
 
 <!--
 **thisisgg/thisisgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
